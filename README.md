@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/biomcp-hub-pubtator-mcp-server-badge.png)](https://mseep.ai/app/biomcp-hub-pubtator-mcp-server)
+
 # PubTator MCP Server
 [![smithery badge](https://smithery.ai/badge/@JackKuo666/pubtator-mcp-server)](https://smithery.ai/server/@JackKuo666/pubtator-mcp-server)
 
